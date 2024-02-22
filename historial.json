@@ -251,5 +251,28 @@
             "leslie",
             "ludwig"
         ]
+    },
+    {
+        "fecha": "2024/02/22",
+        "equipo1": "380",
+        "equipo2": "280",
+        "equipo3": "360",
+        "equipo4": "440",
+        "miembrosEquipo1": [
+            "ellum",
+            "connor"
+        ],
+        "miembrosEquipo2": [
+            "janet",
+            "miyoung"
+        ],
+        "miembrosEquipo3": [
+            "leslie",
+            "etoiles"
+        ],
+        "miembrosEquipo4": [
+            "celine",
+            "ludwig"
+        ]
     }
 ]
